@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Uf Climb",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "uf_climb",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
